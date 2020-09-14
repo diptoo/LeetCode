@@ -1,2 +1,5 @@
 1. leetcode 287 not done
-2. 
+2. Leetcode 75 done
+3. gfg not done
+4. gfg not done
+5. leetcode 53 done
