@@ -23,6 +23,7 @@ int main()
     fast_io();
 
     vector<vector<int> > intervals(3, vector<int>(2, 0));
+    vector<vector<int> > result(3);
 
     for (int i = 0; i < intervals.size(); i++)
     {
