@@ -9,4 +9,24 @@
 9. leetcode 31 done
 10. gfg not done
 11. leetcode 121 done
-12. Leetcode 48 done 
+12. Leetcode 48 done
+
+Hashing
+1. leetcode 1 done
+2. leetcode 18 done
+3. leetcode 128 done
+4. Gfg done
+5. Interviewbit-done
+6. Leetcode-3 done
+
+Linked List
+1. Leetcode 206 done
+2. Leetcode 876 done
+3. Leetcode 19 done (not optimised)
+4. Leetcode 21 done
+5. LeetCode 237 done
+6. LeetCode 2 done
+7. LeetCode 160 done
+8. LeetCode 141 done
+9. Leetcode 234 done
+10. Leetcode 25 done
